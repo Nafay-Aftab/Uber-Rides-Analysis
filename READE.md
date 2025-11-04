@@ -1,4 +1,4 @@
-# 🚕 Trip Analysis Dashboard (Power BI)
+# 🚕 Uber Trip Analysis Dashboard (Power BI)
 
 This repository contains a **single-page Power BI dashboard** built to analyze trip data. The dashboard provides a consolidated view of key business metrics, including booking trends, revenue, and detailed location-based insights.
 
