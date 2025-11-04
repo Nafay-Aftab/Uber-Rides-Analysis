@@ -6,8 +6,6 @@ This repository contains a **single-page Power BI dashboard** built to analyze t
 
 ## 📸 Dashboard Preview
 
-> Make sure the screenshot image is added to your GitHub repo (example file: `dashboard.png`)
-
 ![Dashboard Preview](dashboard.png)
 
 ---
@@ -128,8 +126,4 @@ Star schema structure:
 ---
 
 ✅ **Fully interactive, business-ready Power BI dashboard**  
-🎯 Perfect for portfolio, analytics demo, or real-world reporting use cases.
-
-
-Star schema structure:
 
